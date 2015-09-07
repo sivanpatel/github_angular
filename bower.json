@@ -1,0 +1,22 @@
+{
+  "name": "github_angular",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sivanpatel/github_angular",
+  "authors": [
+    "Sivan Patel <sivan.patel@googlemail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.5",
+    "angular-resource": "~1.4.5",
+    "foundation": "~5.5.2",
+    "jquery": "~2.1.4"
+  }
+}
