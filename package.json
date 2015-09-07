@@ -1,0 +1,28 @@
+{
+  "name": "github_angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivanpatel/github_angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivanpatel/github_angular/issues"
+  },
+  "homepage": "https://github.com/sivanpatel/github_angular#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.9",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "karma-safari-launcher": "^0.1.1",
+    "phantomjs": "^1.9.18"
+  }
+}
